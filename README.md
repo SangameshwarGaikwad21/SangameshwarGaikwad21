@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sangameshwar 👋
 
-<!--
-**SangameshwarGaikwad21/SangameshwarGaikwad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Next.js | React | Node.js | Javascript | TypeScript
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend: React, Next.js, Tailwind CSS, Framer Motion
+- Backend: Node.js, Express, MongoDB, JWT
+- Currently Building: E-commerce app with Next.js + TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔗 Blog Website → (https://blogcommunity.vercel.app/)
+- 🔗 E-commerce → [link]
+
+## 📫 Contact
+- LinkedIn: your link here
