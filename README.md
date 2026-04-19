@@ -8,8 +8,8 @@
 - Currently Building: E-commerce app with Next.js + TypeScript
 
 ## 📂 Projects
-- 🔗 Blog Website → (https://blogcommunity.vercel.app/)
+- 🔗 Blog Website → https://blogcommunity.vercel.app/
 - 🔗 E-commerce → [link]
 
 ## 📫 Contact
-- LinkedIn: your link here
+- LinkedIn: https://www.linkedin.com/in/sangameshwar-gaikwad-a83426340/
