@@ -9,7 +9,7 @@
 
 ## 📂 Projects
 - 🔗 Blog Website → https://blogcommunity.vercel.app/
-- 🔗 E-commerce → [link]
+- 🔗 E-commerce → https://shop-nexus-eight.vercel.app/
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/sangameshwar-gaikwad-a83426340/
