@@ -6,7 +6,7 @@
 - Frontend: React, Next.js, Tailwind CSS, Framer Motion
 - Backend: Node.js, Express, MongoDB, JWT
 - Cloud: Docker,Docker Compose, nginx, Redis, Cloudinary
-- Currently Building: Chat App with Docker-compose
+
 
 ## 📂 Projects
 - 🔗 Blog Website → https://blogcommunity.vercel.app/
